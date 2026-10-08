@@ -1,6 +1,6 @@
 # MNIST Digit Recognition with Ensemble Learning
 
-Handwritten digit classifier built for CS-437 (Machine Learning) at WSUV, reaching **97.49% validation accuracy** using classical ensemble methods under a deliberate constraint: no neural networks.
+Handwritten digit classifier built for CS-437 (Machine Learning), reaching **97.49% validation accuracy** using classical ensemble methods under a deliberate constraint: no neural networks.
 
 ## The problem
 
